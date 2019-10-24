@@ -1,11 +1,11 @@
-#Gauss Jordan 
+# Gauss Jordan 
  
 A simple package for finding Gaussian-Jordan style elimination of matrices.
 
 Takes in a matrix and returns the Reduced Row Echelon Form. 
 This package has no dependencies and only contains one simple method.
 
-##Example 
+## Example 
 ```dart
  List<List<double>> matrix = [
                                [3.0, 0.0, -1.0, 0.0, 0.0],
@@ -19,7 +19,7 @@ prints
 [[1.0, 0.0, 0.0, -0.25, 0.0], [0.0, 1.0, 0.0, -1.25, 0.0], [0.0, 0.0, 1.0, -0.75, 0.0]]
 ```
 
-##Full Example
+## Full Example
 ```dart
 import "package:gauss_jordan/gauss_jordan.dart";
 import 'dart:io';
@@ -55,7 +55,7 @@ main(List<String> arguments) {
 }
 ```
 
-##Installation
+## Installation
 Add GaussJordan as a dependency to your dart project.
 
 ```yaml
