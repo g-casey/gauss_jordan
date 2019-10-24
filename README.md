@@ -60,7 +60,7 @@ Add GaussJordan as a dependency to your dart project.
 
 ```yaml
 dependencies:
-  gauss_jordan: 1.0.0
+  gauss_jordan: 1.0.1
 ``` 
 
 and at the top of your dart file add:

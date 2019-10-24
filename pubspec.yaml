@@ -1,6 +1,6 @@
 name: gauss_jordan
 description: A simple package for finding Gaussian-Jordan style elimination of matrices.
-version: 1.0.0
+version: 1.0.1
 author: Gavin <gavinjc73@icloud.com>
 homepage: https://github.com/jgc37/gauss_jordan
 environment:
